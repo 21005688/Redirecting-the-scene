@@ -39,7 +39,7 @@ Compile and run the program, as a result when the sphere falls on the cube ,it g
 Program:
 Developed By : J.DEEPIKA
 Register No : 212221230016
-
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -76,7 +76,7 @@ public class Prog : MonoBehaviour
         }
     }
 }
-
+```
 # Output:
 ![c1](https://github.com/21005688/Redirecting-the-scene/assets/94747031/a349e561-e72e-4b9e-9f2c-c9c8946ef18d)
 ![ARVR](https://github.com/21005688/Redirecting-the-scene/assets/94747031/131f1a5e-7b84-4f11-ab27-a04807ffa262)
