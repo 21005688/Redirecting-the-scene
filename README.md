@@ -80,6 +80,8 @@ public class Prog : MonoBehaviour
 # Output:
 ![c1](https://github.com/21005688/Redirecting-the-scene/assets/94747031/a349e561-e72e-4b9e-9f2c-c9c8946ef18d)
 ![ARVR](https://github.com/21005688/Redirecting-the-scene/assets/94747031/131f1a5e-7b84-4f11-ab27-a04807ffa262)
+    ![c 3](https://github.com/21005688/Redirecting-the-scene/assets/94747031/d00f42dd-958d-4e6c-851e-507c02c41244)
+
   
 # Result:
 Thus redirecting a scene is done successfully in the unity engine.
